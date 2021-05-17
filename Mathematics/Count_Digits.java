@@ -1,3 +1,9 @@
+/* 
+    Problem : Count Number of digits in a given number
+    Idea : Using divide by 10 in each iteration, make number lose one digit at a time and count in each iteration 
+    Complexity : Theta(No of digits)
+*/
+
 import java.util.Scanner;
 import java.lang.Math;
 

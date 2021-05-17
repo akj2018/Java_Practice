@@ -2,6 +2,7 @@
     Problem : Find Palindrom of a given number
     Idea : Find the reverse of the given number and if reverse is same as the original number 
            then it is Palindrom otherwise not.  
+    Complexity : Theta(No of digits)
 */
 
 import java.util.Scanner;
