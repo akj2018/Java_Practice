@@ -4,7 +4,7 @@
     Idea : If g is the gcd if a and b then, a = g * t1 , b = g * t2 and GCD (t1, t2) = 1
             so if a - b = k(t1 - t2) then GCD(b, a - b) is also the same
             Therefor gcd(b, a-b) = gcd(a,b)
-    Complexity : 
+    Complexity : log(min(a,b))
 */
 
 import java.util.Scanner;
